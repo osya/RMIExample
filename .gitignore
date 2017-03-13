@@ -1,0 +1,10 @@
+### JetBrains template
+
+# User-specific stuff:
+.idea/dictionaries
+.idea/vcs.xml
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
